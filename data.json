@@ -1,0 +1,11 @@
+{
+  "terminal_id": "999888777",
+  "bank_name": "SBER",
+  "owner": "Твой Ник",
+  "status": "READY",
+  "last_payment": {
+    "amount": "100500",
+    "currency": "RUB",
+    "status": "SUCCESS"
+  }
+}
