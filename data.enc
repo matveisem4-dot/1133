@@ -1,0 +1,5 @@
+{
+  "terminal_status": "active",
+  "min_payment": 1.0,
+  "last_orders": [{"id": 1, "sum": 500, "status": "success"}]
+}
